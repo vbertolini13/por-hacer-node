@@ -2,6 +2,6 @@
 
 Aplicación de comandos para administrar tareas.
 
-````
+```
 npm install
-````
+```
